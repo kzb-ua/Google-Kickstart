@@ -17,13 +17,13 @@ Memory limit: 1 GB.
 1≤T≤100.
 0≤K≤N/2
 
-Sample Input\
+Sample Input
 
-2 \
-5 1 \
-ABCAA \
-4 2 \ 
-ABAA \
+2 
+5 1 
+ABCAA 
+4 2 
+ABAA 
 
 <br>Sample Output  </br>
 Case #1: 0
